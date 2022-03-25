@@ -16,3 +16,8 @@ function isPrime(num){
 
 console.log(isPrime(7))
 console.log(isPrime(12))
+
+
+// Interviewer: Can you make this better?
+
+// You: yes. the divisor are increased 1 at a time. after 3 i can increase by 2. if a number is divisible by any even number, it will be divisible by 2.
