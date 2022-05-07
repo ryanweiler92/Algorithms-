@@ -14,3 +14,9 @@ function reverseWords(string){
     return reverseString.join(" ")
 }
 console.log(reverseWords("This is a boring sentence"))
+
+
+function reverseInPlace(str){
+    return str.split(' ').reverse().join(' ').split('').reverse().join('');
+  }
+  
