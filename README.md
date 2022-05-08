@@ -10,6 +10,6 @@ A collection of JavaScript algorithms from various sources. Most of the answers 
 * [InterviewBit](https://www.interviewbit.com/tutorial/bubble-sort/)
 
 ## Contact
-* Email: ryanweiler92@gmail.com
+* ryanweiler92@gmail.com
 * [GitHub](https://github.com/ryanweiler92)
 * [LeetCode](https://leetcode.com/ryanweiler92/) 
