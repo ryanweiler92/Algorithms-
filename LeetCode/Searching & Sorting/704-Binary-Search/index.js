@@ -15,9 +15,6 @@
     //last index in the array (ex. 5)
     let lastIndex = nums.length -1
     
-    let midIndex = firstIndex + Math.floor((lastIndex - firstIndex + 1) / 2)
-    console.log(midIndex)
-    
     while (firstIndex < lastIndex){
         
         //assigning middle index of the array
